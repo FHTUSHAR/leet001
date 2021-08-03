@@ -1,5 +1,4 @@
-# leet001
-homework
+
 class Solution:
     def isPalindrome(self, s: str)->bool:
         a=''
